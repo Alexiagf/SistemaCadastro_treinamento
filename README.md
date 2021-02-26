@@ -46,7 +46,7 @@ A seguinte ferramenta foi usada na construção do projeto:
 ### Autora
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/alexia-gasperi-128a7a1b9">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61278895?s=60&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Alexia Gasperi</b></sub></a> <a href="https://www.linkedin.com/in/alexia-gasperi-128a7a1b9" title="Alexia Gasperi"></a>
