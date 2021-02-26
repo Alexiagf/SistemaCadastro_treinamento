@@ -24,6 +24,14 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
+### Status
+
+<h4 align="center"> 
+	🚀 Concluído  🚧
+</h4>
+
+
+
 
 
 
