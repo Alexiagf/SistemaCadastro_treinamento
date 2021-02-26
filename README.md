@@ -36,3 +36,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 3 - Abrir a pasta na IDE desejada através da opção "Open File"; 
 4 - Selecionar a classe principal "DAO", a qual contém o inicializador main; 
 5 - Inicializar o programa; 
+
+### 🛠 Tecnologias
+
+A seguinte ferramenta foi usada na construção do projeto:
+
+- [Eclispe](https://expo.io/)
