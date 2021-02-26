@@ -23,7 +23,7 @@
 
 # Sobre
 
-<p align="justify"> O projeto SistemaCadastro_treinamento consiste em um sistema de cadastro de pessoas e espaços para o gerenciamento de um evento. Há duas fases disponíveis para todos os cadastros, fase 1 e fase 2, tanto para pessoas quanto para os espaços. Dependendo de qual fase é selecionada para realização do cadastro, a relação entre pessoas, salas e cafés se altera. </p>
+<p align="justify"> O projeto SistemaCadastro_treinamento consiste em um sistema de cadastro de pessoas e espaços para o gerenciamento de um evento. Há duas fases disponíveis para todos os cadastros, fase 1 e fase 2, tanto para pessoas quanto para os espaços. Dependendo de qual fase é selecionada para realização do cadastro, a relação entre pessoas, salas e cafés se altera. O programa, por sua vez, tem como objetivo organizar as pessoas em salas e espaços de café, dessa forma disponibilizando diversas funções que dizem respeito a esse propósito. </p>
 
 # Classes
 
