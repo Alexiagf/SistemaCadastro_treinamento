@@ -41,4 +41,4 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 A seguinte ferramenta foi usada na construção do projeto:
 
-- [Eclispe](https://expo.io/)
+- [Eclispe](https://www.eclipse.org/)
