@@ -37,7 +37,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  * Selecionar a classe principal "DAO", a qual contém o inicializador main; 
  * Selecionar a classe principal "DAO", a qual contém o inicializador main; 
 
-### 🛠 Tecnologias
+# Tecnologias
 
 A seguinte ferramenta foi usada na construção do projeto:
 
