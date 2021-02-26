@@ -2,11 +2,14 @@
 
 <p align="justify"> O projeto SistemaCadastro_treinamento consiste em um sistema de cadastro de pessoas e espaços para o gerenciamento de um evento. Há duas fases disponóveis para todos os cadastros, fase 1 e fase 2. Dependendo de qual fase é selecionada para realização do cadastro as pessoas, salas e cafés são inter-associadas de maneiras diferentes.  </p>
 
-### Usando um task list, marcando tarefa como completada ou não  
+<img src="https://img.shields.io/static/v1?label=Status&=completo&color=blue&style=for-the-badge&logo=REACT"/>
+
+
+### Tabela de Conteúdos
 
 - [X] Cadastro de pessoas
-- [ ] Cadastro de salas
-- [ ] Cadastro de cafés
+- [X] Cadastro de salas
+- [X] Cadastro de cafés
 
 
 
