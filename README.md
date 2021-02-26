@@ -23,6 +23,29 @@
 
 <p align="justify"> O projeto SistemaCadastro_treinamento consiste em um sistema de cadastro de pessoas e espaços para o gerenciamento de um evento. Há duas fases disponíveis para todos os cadastros, fase 1 e fase 2, tanto para pessoas quanto para os espaços. Dependendo de qual fase é selecionada para realização do cadastro, a relação entre pessoas, salas e cafés se altera. </p>
 
+# Funcionalidades
+
+- [X] Cadastro de pessoas na Fase 1
+- [X] Cadastro de pessoas na Fase 2
+- [X] Cadastro de cafés na Fase 1 
+- [X] Cadastro de cafés na Fase 2
+- [X] Cadastro de salas na Fase 1
+- [X] Cadatsro de salas na Fase 2
+- [X] Consulta de aalas da Fase 1
+- [X] Consulta de aalas da Fsae 2
+- [X] Consulta de pessoas da Fase 1
+- [X] Consulta de pessoas da Fase 2
+- [X] Consulta de cafés da Fase 1
+- [X] Consulta de Cafés da Fase 2
+- [X] Remover pessoas da Fase 1
+- [X] Remover pessoas da Fase 2
+- [X] Editar nome da pessoa da Fase 1
+- [X] Editar nome da pessoa da Fase 2
+- [X] Remover pessoas da sala da Fase 1
+- [X] Remover pessoas da sala da Fase 2
+- [X] Sair
+
+
 # Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
