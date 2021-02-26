@@ -47,9 +47,9 @@ A seguinte ferramenta foi usada na construção do projeto:
 ---
 
 <a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61278895?s=60&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Alexia Gasperi</b></sub></a> <a href="https://www.linkedin.com/in/alexia-gasperi-128a7a1b9" title="Alexia Gasperi">🚀</a>
+ <sub><b>Alexia Gasperi</b></sub></a> <a href="https://www.linkedin.com/in/alexia-gasperi-128a7a1b9" title="Alexia Gasperi"></a>
 
 
 Entre em contato!
