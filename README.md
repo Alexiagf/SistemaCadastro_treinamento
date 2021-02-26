@@ -10,6 +10,8 @@
 
 <!--ts-->
    * [Sobre](#Sobre)
+   * [Classes](#classes)
+   * [Funcionalidades](#funcionalidades)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Pré Requisitos](#pre-requisitos)
    * [Rodando o Back End](#rodando-o-backend)
