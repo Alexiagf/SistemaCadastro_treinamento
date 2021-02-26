@@ -49,10 +49,10 @@ A seguinte ferramenta foi usada na construção do projeto:
 <a href="https://blog.rocketseat.com.br/author/thiago/">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Alexia Gasperi</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Alexia Gasperi</b></sub></a> <a href="https://www.linkedin.com/in/alexia-gasperi-128a7a1b9" title="Alexia Gasperi">🚀</a>
 
 
 Entre em contato!
 
-[![Linkedin Badge](https://foto(1).shields.io/badge/-Alexia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexia-gasperi-128a7a1b9)](https://www.linkedin.com/in/alexia-gasperi-128a7a1b9) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alexia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexia-gasperi-128a7a1b9)](https://www.linkedin.com/in/alexia-gasperi-128a7a1b9) 
 [![Gmail Badge](https://img.shields.io/badge/-alexiagfirmes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexiagfirmes@gmail.com)](mailto:alexiagfirmes@gmail.com)
