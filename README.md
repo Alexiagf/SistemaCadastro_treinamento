@@ -12,7 +12,7 @@
    * [Sobre](#Sobre)
    * [Classes](#classes)
    * [Funcionalidades](#funcionalidades)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Tabela de Conteúdos](#tabela-de-conteudo)
    * [Pré-requisitos](#pré-requisitos)
    * [Rodando o Back-end](#rodando-o-back-end)
    * [Status](#testes)
