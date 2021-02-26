@@ -1,10 +1,12 @@
 <h1 align="center">  SistemaCadastro_treinamento </h1>
 
-# Sobre
+# Status
 
-<p align="justify"> O projeto SistemaCadastro_treinamento consiste em um sistema de cadastro de pessoas e espaços para o gerenciamento de um evento. Há duas fases disponóveis para todos os cadastros, fase 1 e fase 2. Dependendo de qual fase é selecionada para realização do cadastro as pessoas, salas e cafés são inter-associadas de maneiras diferentes.  </p>
+<h4 align="center"> 
+	🚀 Projeto concluído  🚧
+</h4>
 
-# Tabela de conteúdo
+# Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
@@ -17,11 +19,9 @@
    * [Licença](#licença)
 <!--te-->
 
-# Status
+# Sobre
 
-<h4 align="center"> 
-	🚀 Projeto concluído  🚧
-</h4>
+<p align="justify"> O projeto SistemaCadastro_treinamento consiste em um sistema de cadastro de pessoas e espaços para o gerenciamento de um evento. Há duas fases disponóveis para todos os cadastros, fase 1 e fase 2. Dependendo de qual fase é selecionada para realização do cadastro as pessoas, salas e cafés são inter-associadas de maneiras diferentes.  </p>
 
 # Pré-requisitos
 
@@ -41,20 +41,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 A seguinte ferramenta foi usada na construção do projeto:
 
 - [Eclispe](https://www.eclipse.org/)
-
-# Autora
----
-
-<a href="https://www.linkedin.com/in/alexia-gasperi-128a7a1b9">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61278895?s=60&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Alexia Gasperi</b></sub></a> <a href="https://www.linkedin.com/in/alexia-gasperi-128a7a1b9" title="Alexia Gasperi"></a>
-
-
-Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Alexia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexia-gasperi-128a7a1b9)](https://www.linkedin.com/in/alexia-gasperi-128a7a1b9) 
-[![Gmail Badge](https://img.shields.io/badge/-alexiagfirmes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexiagfirmes@gmail.com)](mailto:alexiagfirmes@gmail.com)
 
 # Licença
 
@@ -79,4 +65,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Autora
+---
+
+<a href="https://www.linkedin.com/in/alexia-gasperi-128a7a1b9">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61278895?s=60&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Alexia Gasperi</b></sub></a> <a href="https://www.linkedin.com/in/alexia-gasperi-128a7a1b9" title="Alexia Gasperi"></a>
+
+
+Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alexia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexia-gasperi-128a7a1b9)](https://www.linkedin.com/in/alexia-gasperi-128a7a1b9) 
+[![Gmail Badge](https://img.shields.io/badge/-alexiagfirmes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexiagfirmes@gmail.com)](mailto:alexiagfirmes@gmail.com)
 
