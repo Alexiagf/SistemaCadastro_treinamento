@@ -7,7 +7,7 @@
 </h4>
 
 # Tabela de conteúdos
-=================
+
 <!--ts-->
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
@@ -15,13 +15,13 @@
    * [Rodando o Back End](#rodando-o-backend)
    * [Status](#testes)
    * [Tecnologias](#tecnologias)
-   * [Autora](#autora)
    * [Licença](#licença)
+   * [Autora](#autora)
 <!--te-->
 
 # Sobre
 
-<p align="justify"> O projeto SistemaCadastro_treinamento consiste em um sistema de cadastro de pessoas e espaços para o gerenciamento de um evento. Há duas fases disponíveis para todos os cadastros, fase 1 e fase 2, tanto para pessoas quanto para os espaços. Dependendo de qual fase é selecionada para realização do cadastro, a relação entre pessoas, salas e cafés se altera.   </p>
+<p align="justify"> O projeto SistemaCadastro_treinamento consiste em um sistema de cadastro de pessoas e espaços para o gerenciamento de um evento. Há duas fases disponíveis para todos os cadastros, fase 1 e fase 2, tanto para pessoas quanto para os espaços. Dependendo de qual fase é selecionada para realização do cadastro, a relação entre pessoas, salas e cafés se altera. </p>
 
 # Pré-requisitos
 
