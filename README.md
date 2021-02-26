@@ -2,12 +2,6 @@
 
 <p align="justify"> O projeto SistemaCadastro_treinamento consiste em um sistema de cadastro de pessoas e espaços para o gerenciamento de um evento. Há duas fases disponóveis para todos os cadastros, fase 1 e fase 2. Dependendo de qual fase é selecionada para realização do cadastro as pessoas, salas e cafés são inter-associadas de maneiras diferentes.  </p>
 
-### Tabela de Conteúdos
-
-- [X] Cadastro de pessoas
-- [X] Cadastro de salas
-- [X] Cadastro de cafés
-
 Tabela de conteúdos
 =================
 <!--ts-->
@@ -27,17 +21,15 @@ Tabela de conteúdos
 ### Status
 
 <h4 align="center"> 
-	🚀 Concluído  🚧
+	🚀 Projeto concluído  🚧
 </h4>
 
+### Pré-requisitos
 
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [eclipse](https://www.eclipse.org/downloads/), [winrar](https://www.win-rar.com/start.html?&L=9).
 
-
-
-
-INSTRUÇÕES: 
-
-O código foi desenvolvido na IDE eclipse e está compactado, portanto os passos para o acesso consistem em: 
+### 🎲 Rodando o Back End 
 
 1 - Realizar o download da pasta e descompactá-la; 
 2 - Fazer o download da IDE de desenvolvimento eclipse ou outra que comporte a linguagem de JAVA; 
