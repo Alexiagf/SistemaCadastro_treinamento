@@ -54,5 +54,5 @@ A seguinte ferramenta foi usada na construção do projeto:
 
 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alexia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexia-gasperi-128a7a1b9)](https://www.linkedin.com/in/alexia-gasperi-128a7a1b9) 
+[![Linkedin Badge](https://foto(1).shields.io/badge/-Alexia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexia-gasperi-128a7a1b9)](https://www.linkedin.com/in/alexia-gasperi-128a7a1b9) 
 [![Gmail Badge](https://img.shields.io/badge/-alexiagfirmes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexiagfirmes@gmail.com)](mailto:alexiagfirmes@gmail.com)
