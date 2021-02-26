@@ -14,7 +14,7 @@
    * [Funcionalidades](#funcionalidades)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Pré-requisitos](#pré-requisitos)
-   * [Rodando o Back End](#rodando-o-back-End)
+   * [Rodando o Back-end](#rodando-o-back-end)
    * [Status](#testes)
    * [Tecnologias](#tecnologias)
    * [Licença](#licença)
@@ -60,7 +60,7 @@
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [eclipse](https://www.eclipse.org/downloads/), [winrar](https://www.win-rar.com/start.html?&L=9).
 
-# 🎲 Rodando o Back End 
+# 🎲 Rodando o Back-end 
 
  * Realizar o download da pasta e descompactá-la;
  * Fazer o download da IDE de desenvolvimento eclipse ou outra que comporte a linguagem JAVA;
