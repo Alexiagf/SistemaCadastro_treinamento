@@ -40,8 +40,8 @@
 - [X] Cadastro de cafés na Fase 2
 - [X] Cadastro de salas na Fase 1
 - [X] Cadatsro de salas na Fase 2
-- [X] Consulta de aalas da Fase 1
-- [X] Consulta de aalas da Fsae 2
+- [X] Consulta de salas da Fase 1
+- [X] Consulta de salas da Fsae 2
 - [X] Consulta de pessoas da Fase 1
 - [X] Consulta de pessoas da Fase 2
 - [X] Consulta de cafés da Fase 1
